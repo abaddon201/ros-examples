@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/abaddon/repos/ros-examples/catkin_ws/devel/setup.sh
